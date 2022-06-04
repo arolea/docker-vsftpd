@@ -145,8 +145,6 @@ This image uses environment variables to allow the configuration of some paramet
 
 ----
 
-----
-
 * Variable name: `FORCE_LOCAL_DATA_SSL`
 * Default value: Empty string
 * Accepted values: YES / NO, with one of the values being required in order for FTPS server to start
