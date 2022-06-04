@@ -145,6 +145,15 @@ This image uses environment variables to allow the configuration of some paramet
 
 ----
 
+----
+
+* Variable name: `FORCE_LOCAL_DATA_SSL`
+* Default value: Empty string
+* Accepted values: YES / NO, with one of the values being required in order for FTPS server to start
+* Description: The value that will be passed for force_local_data_ssl.
+
+----
+
 Exposed ports and volumes
 ----
 
